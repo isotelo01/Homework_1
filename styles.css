@@ -1,0 +1,241 @@
+
+body{
+    background-color:rgb(0,0,0);
+    background-image:url(http://www.zingerbugimages.com/backgrounds/gray_parchment_paper_wallpaper_texture_seamless.jpg);
+    background-position:top left;background-repeat:repeat;
+    background-attachment:fixed;
+    margin: 0em;
+}
+h1{
+    font-size: 2.5rem;
+    color: rgb(244, 244, 238);
+    padding: 0em;
+    margin:0.3em; 
+}   
+h2{
+    font-size: 2rem;
+    color: rgb(202, 202, 226);
+    text-decoration-style: none;
+}   
+h3{
+    font-size: 1.5em;
+    color: rgb(202, 202, 226);
+}   
+p{
+    font-size: 1em;
+}
+a{
+    margin:0;
+   
+}
+.label {
+    font-size: 1.5em;
+    color: rgb(202, 202, 226);
+}
+.containerC{
+    background-attachment:fixed;
+    display: flex;
+    flex-direction: column; 
+    height: 500em;
+}
+.container{
+    background-attachment:fixed;
+    display: flex;
+    flex-direction: column; 
+    height: 
+}
+
+.top{ 
+    display: flex;
+    background-color: rgb(244, 244, 238);
+    height: 5em;
+
+}
+.topContent{
+    width: 62em;
+    margin-left: 12em;
+    
+    display: flex;
+    flex: right;
+    
+}
+.name{
+    margin-left: 0em;
+    background-color: rgb(202, 202, 226);
+    flex-basis: 30%;
+    text-align: center;
+    width: 20em;
+}
+.header{ 
+    margin-left: 24em;
+    position: relative;
+    right: 0;
+    bottom: 0;
+    width: 30%;
+    
+}
+
+#navbar{
+    list-style: none;
+    display: inline-flex;
+    float: right;
+ 
+   
+    
+
+}
+.linkText{
+    font-size: 1.5em;
+    text-align: center;
+    font-style: normal;
+    padding: 0em;
+    margin:0em; 
+   
+
+}
+.textLink:link{
+    color: blue;
+}
+.textLink:visited{
+    color: red;
+}
+
+#portfolio {
+    padding-right: 2em;
+    border-right: solid;
+    border-width: 0.1em;
+    border-color: gray;     
+}
+#bio {
+    padding-left: 2em;
+}
+#bio2 {
+    padding-right: 2em;
+    border-right: solid;
+    border-width: 0.1em;
+    border-color: gray;
+}
+#contact{
+    padding-left: 2em;
+}
+.mdl{
+    padding: 3em;
+    display: flex;
+    border-top: slategrey solid 0.1em;
+    justify-content:space-between;
+    align-items: flex-start;
+    flex-wrap:wrap;
+}
+.content{
+    
+}
+.aboutMe{
+    margin-left: 9em;
+    padding: 15px;
+    background-color: rgb(244, 244, 238);
+    width: 60em;
+}
+.title1{
+    border-bottom: solid;
+}
+
+.cat{
+    padding: 0px;
+    margin-right: 1.5em;
+    height:20em;
+    float: left;
+    }
+.links{
+    padding: 10px;
+    background-color: white;
+    flex-basis:20%;
+    text-align: center;
+    margin-right: 50px;
+}
+.title2{
+    border-bottom: solid;
+}
+.linkImgs{
+    padding: 10px;
+    display: flex;
+}
+.fb{
+    padding: 10px;
+    align-items:right;
+    flex:1;
+}
+.youtube{
+    padding: 10px;
+    align-items:center;
+    flex:1;
+}
+.in{
+    padding: 10px;
+    align-items:left;
+    flex:1;
+}
+.ifb{
+    height:100px;
+}
+.iyoutube{
+    height:100px;
+}
+.iin{
+    height:100px;
+}
+.bdm{
+    padding-top: 5px;
+    background-color: rgb(108, 163, 108);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.copyright{
+    padding: 10px;
+    background-color: rgb(164, 164, 177);
+    text-align: center;
+    color: rgb(108, 163, 108);
+}
+.textCR{
+    
+}
+#name {
+    border: 2px solid #456879;
+    border-radius: 10px;
+    height: 3em;
+    width: 100%;
+}
+
+#email{
+    border: 2px solid #456879;
+    border-radius: 10px;
+    height: 3em;
+    width: 100%;
+}
+#message{
+    border: 2px solid #456879;
+    border-radius: 20px;
+    height: 13em;
+    width: 100%;
+}
+button{
+    background-color:rgb(202, 202, 226);
+    color:rgb(244, 244, 238);;
+    height: 4em;
+    width: 10em;
+    border-radius: 1em;
+}
+.box {
+    
+    width: 12em;
+    height: 150px;
+    border: 2px solid black;
+  }
+.boxlbl{
+    background-color: rgb(202, 202, 226);
+    color: rgb(244, 244, 238);
+    padding: 0.5em;
+   
+    
+    
+}

@@ -1,0 +1,9 @@
+#navbar{
+    
+    background-color: lawngreen;
+    list-style-type: none;
+    display: inline-flex;
+}
+.header{
+    display: inline-block;
+}
