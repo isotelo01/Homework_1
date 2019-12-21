@@ -16,6 +16,7 @@ h1{
     background-color: rgb(202, 202, 226);   
 }   
 h2{
+    font-weight: 1.5;
     font-size: 2rem;
     color: rgb(202, 202, 226);
     background-color: rgb(244, 244, 238);  
@@ -46,7 +47,8 @@ a:hover{
     height: 50em;
 }
 .container{
-    background-attachment:fixed;
+    
+    
 }
 #head{
     background-color:rgb(244, 244, 238);
@@ -62,10 +64,17 @@ a:hover{
     display: flex;
     justify-content:space-around;
     flex-wrap:wrap;
+    
+}
+.content{
+   width: 60em;
+   
+   
 }
 .catText{
     font-family: 'Quicksand', sans-serif;
     font-size: 1.3em;
+    
 }
 .aboutMe{
     padding: 1em;
@@ -74,6 +83,7 @@ a:hover{
 }
 .title1{
     border-bottom: solid;
+    padding-bottom: 1em;
 }
 .cat{
     padding: 0px;
@@ -120,20 +130,20 @@ a:hover{
     border: 2px solid #456879;
     border-radius: 10px;
     height: 3em;
-    width: 100%;
+    width: 75%
 }
 
 #email{
     border: 2px solid #456879;
     border-radius: 10px;
     height: 3em;
-    width: 100%;
+    width: 75%;
 }
 #message{
     border: 2px solid #456879;
     border-radius: 20px;
     height: 13em;
-    width: 100%;
+    width: 90%;
 }
 button{
     background-color:rgb(202, 202, 226);
@@ -245,4 +255,7 @@ h2{
 }
 .submit{
     font-size: 2em;
+}
+.box-5{
+  background-image: 
 }
