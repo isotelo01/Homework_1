@@ -16,6 +16,7 @@ h1{
     background-color: rgb(202, 202, 226);   
 }   
 h2{
+    font-weight: 1.5;
     font-size: 2rem;
     color: rgb(202, 202, 226);
     background-color: rgb(244, 244, 238);  
@@ -47,6 +48,10 @@ a:hover{
 }
 .container{
     
+<<<<<<< HEAD
+=======
+    
+>>>>>>> 2a93660a9b29e1f68a4ab52a36caca3bd4805447
 }
 #head{
     background-color:rgb(244, 244, 238);
@@ -66,11 +71,17 @@ a:hover{
 }
 .content{
    width: 60em;
+<<<<<<< HEAD
    padding: 2em; 
+=======
+   
+   
+>>>>>>> 2a93660a9b29e1f68a4ab52a36caca3bd4805447
 }
 .catText{
     font-family: 'Quicksand', sans-serif;
     font-size: 1.3em;
+    
 }
 .aboutMe{
     padding: 1em;
